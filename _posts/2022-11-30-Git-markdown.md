@@ -1,6 +1,6 @@
 # Git
 
-![Untitled](./assets/img/Untitled.png)
+![Untitled](../assets/img/Untitled.png)
 
 - git status를 통해서 현재 상태를 확인할 수 있다.
 - git add를 통해서 반영할 파일을 추가할 수 있다.
